@@ -28,7 +28,7 @@ El **ancho del bus de memoria** representa el número de líneas paralelas dispo
 
 Algunos controladores de memoria tienen, además, su propio sistema de corrección de errores que se puede complementar con el que incorporan muchos módulos de memoria RAM ya de por sí (lo cual es bueno porque los libera de carga en unos casos, y duplica la medida de corrección de errores en otros).
 
-[^Líneas paralelas]: Trabajan en líneas paralelas pero envían sus datos en serie. No confundir con transmisión de datos en paralelo.
+*Líneas paralelas: Trabajan en líneas paralelas pero envían sus datos en serie. No confundir con transmisión de datos en paralelo.*
 
 
 
